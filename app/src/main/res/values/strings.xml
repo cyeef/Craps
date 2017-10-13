@@ -1,0 +1,6 @@
+<resources>
+  <string name="app_name">Craps</string>
+  <string name="play_button_title">Play</string>
+  <string name="dice_roll_message">Before: %1$s, roll: %2$s; after: %3$s</string>
+  <string name="tally_message">Wins; %1$d; losses; %2$d; winning %%: %3$.2f</string>
+</resources>
