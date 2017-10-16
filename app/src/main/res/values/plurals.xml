@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="wins_noun">
+    <item quantity="one">%1$, d win</item>
+    <item quantity="other">%1$, d wins</item>
+  </plurals>
+
+  <plurals name ="plays_noun">
+  <item quantity="one">%1$, d play</item>
+  <item quantity="other">%1$, d plays</item>
+</plurals>
+
+
+</resources>

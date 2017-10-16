@@ -1,6 +1,16 @@
 <resources>
   <string name="app_name">Craps</string>
   <string name="play_button_title">Play</string>
+  <string name="play_toggle_off_title">Run!</string>
+  <string name="play_toggle_on_title">Stop!</string>"
+  <string name="reset_button_title">Reset!</string>"
   <string name="dice_roll_message">Before: %1$s, roll: %2$s; after: %3$s</string>
-  <string name="tally_message">Wins; %1$d; losses; %2$d; winning %%: %3$.2f</string>
+  <string name="tally_message">%1$s / %2$s%3$s</string>
+  <string name="roll_message">=%1$d</string>
+  <string name="point_message">Point</string>
+  <string name="win_messagae">win</string>
+  <string name="loose_message">loose
+  </string>
+
+
 </resources>
