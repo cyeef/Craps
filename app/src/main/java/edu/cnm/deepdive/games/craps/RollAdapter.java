@@ -38,7 +38,7 @@ public class RollAdapter extends ArrayAdapter<Game.Roll> {
     int background;
     switch (roll.after) {
       case WIN:
-        outcome = context.getString(R.string.win_messagae);
+        outcome = context.getString(R.string.win_message);
         background = Color.GREEN;
         break;
       case LOSE:

@@ -7,8 +7,9 @@
   <string name="dice_roll_message">Before: %1$s, roll: %2$s; after: %3$s</string>
   <string name="tally_message">%1$s / %2$s%3$s</string>
   <string name="roll_message">=%1$d</string>
+  <string name="winning_percentage">\u0020=%1$.2f%%</string>
   <string name="point_message">Point</string>
-  <string name="win_messagae">win</string>
+  <string name="win_message">win</string>
   <string name="loose_message">loose
   </string>
 

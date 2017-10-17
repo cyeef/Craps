@@ -15,7 +15,7 @@
     android:layout_height="wrap_content"
     android:layout_margin="5dp"
     app:layout_constraintLeft_toLeftOf="parent"
-    app:layout_constraintRight_toLeftOf="@id/die1View"
+    app:layout_constraintRight_toLeftOf="@+id/die1View"
     app:layout_constraintTop_toTopOf="parent"
     app:layout_constraintBottom_toBottomOf="parent"
     app:srcCompat="@drawable/face_3"/>
@@ -26,8 +26,8 @@
     android:layout_height="wrap_content"
     android:layout_margin="5dp"
     app:layout_constraintLeft_toRightOf="@id/die0View"
-    app:layout_constraintTop_toTopOf="@id/rollView"
-    app:layout_constraintRight_toTopOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    app:layout_constraintRight_toLeftOf="@+id/rollView"
     app:layout_constraintBottom_toBottomOf="parent"
     app:srcCompat="@drawable/face_4"/>
    <TextView
@@ -36,8 +36,8 @@
      android:layout_height="wrap_content"
      android:layout_margin="5dp"
      android:textSize="20sp"
-     app:layout_constrainLeft_toRightOf="@id/die1View"
-     app:layout_constraintRight_toLeftOf="@id/resultView"
+     app:layout_constraintLeft_toRightOf="@id/die1View"
+     app:layout_constraintRight_toLeftOf="@+id/resultView"
      app:layout_constraintTop_toTopOf="parent"
      app:layout_constraintBottom_toBottomOf="parent"
      />
